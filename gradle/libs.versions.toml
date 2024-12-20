@@ -1,5 +1,5 @@
 [versions]
-kotlin = "2.0.21"
+kotlin = "2.1.0" # no bug with 2.0.21
 mokoResources = "0.24.4"
 
 [plugins]
